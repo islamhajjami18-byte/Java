@@ -25,7 +25,8 @@ public class LongestText {
 		int max = 0;
 		
 		while (!txt.equalsIgnoreCase("end")) {
-			len = txt.length();	
+			len = txt.length();
+			
 				if (len > max) {
 					max = txt.length();
 					res = txt;
