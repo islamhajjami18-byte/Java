@@ -23,7 +23,6 @@ public class FirstAndLastLetter {
         word = sc.nextLine();
 
         while (!word.equalsIgnoreCase("end")) {
-
             if (word.length() >= 2) {
 
                 char first = word.charAt(0);
