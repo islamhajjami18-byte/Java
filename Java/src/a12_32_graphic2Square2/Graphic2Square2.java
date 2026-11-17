@@ -17,7 +17,7 @@ public class Graphic2Square2 {
             for (int j = 0; j < lines; j++) {
                 System.out.print(c + " ");
             }
-            System.err.println();
+            System.out.println();
         }
         sc.close();     
     }
