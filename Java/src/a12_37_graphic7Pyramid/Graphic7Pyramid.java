@@ -27,6 +27,8 @@ public class Graphic7Pyramid {
             System.out.println();
         }
 
+        
+
         sc.close();
     }
 }
