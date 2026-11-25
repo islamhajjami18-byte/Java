@@ -18,7 +18,7 @@ public class NumberCheck2{
         checkSign(number);
         checkDigits(number);
         checkPrime(number);
-        printMessage("END OF PROGRAM");
+        printEndMessage("END OF PROGRAM");
 
         scanner.close();
     }
