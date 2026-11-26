@@ -15,6 +15,7 @@ public class IntegerCalculator {
         System.out.println("Subtract = " + subtract(x, y));
         System.out.println("Multiply = " + multiply(x, y));
         System.out.println("Divide = " + divide(x, y));
+        System.out.println("Module = " + modulo(x, y));
         System.out.println("Power = " + power(x, y));
         System.out.println("Minimum = " + minimum(x, y));
         System.out.println("Maximum = " + maximum(x, y));
