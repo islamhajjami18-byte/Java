@@ -8,7 +8,7 @@ public class GuessPassword {
 
         Scanner sc = new Scanner(System.in);
 
-        String adminPass = "Fr34k!29$";
+        String adminPass = "houdayfa";
         String rootPass = "kL?Je45op";
         int count = 0;
 
